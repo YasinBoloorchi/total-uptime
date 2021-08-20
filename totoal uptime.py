@@ -1,3 +1,5 @@
+# Did you see it mosi? i just put a comment in here,
+
 from os import system
 import re
 system('last > ./last.txt')
